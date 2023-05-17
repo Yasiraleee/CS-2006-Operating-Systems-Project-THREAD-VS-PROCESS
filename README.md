@@ -50,6 +50,10 @@ time for execution.
 ## comaparsion picture
 https://github.com/Yasiraleee/CS-2006-Operating-Systems-Project-THREAD-VS-PROCESS/blob/main/Screenshot%202023-05-17%20123010.png
 
+## Output ScreenShots
+https://github.com/Yasiraleee/CS-2006-Operating-Systems-Project-THREAD-VS-PROCESS/blob/main/Bubblesort%20process%20output.jpeg
+https://github.com/Yasiraleee/CS-2006-Operating-Systems-Project-THREAD-VS-PROCESS/blob/main/Bubblesort%20thread%20output.jpeg
+
 
 ## Authors
 Sameer Uddin
