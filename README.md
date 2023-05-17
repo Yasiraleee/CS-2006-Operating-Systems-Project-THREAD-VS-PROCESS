@@ -30,11 +30,12 @@ In case of small programs the threads take longer to execute as context switchin
 is much more effective. As every thread makes its own PCB and stack so its takes more 
 time for execution.
 
+## comaparsion picture
+
 
 ## Authors
 Sameer Uddin
 Yasir Ali
 BasitAllahwala
 
-## License
 No copyrights and no licensing issues.
