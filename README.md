@@ -15,6 +15,23 @@ terms of execution time.
 2. Compile the code using normal C language compiler on linux.
 3. Run the compiled file.
 
+## Objectives
+1.  To understand the differences between processes and threads in terms of performance and memory usage.
+2.   To implement different sorting algorithms (bubble, insertion, selection, quick sort) using C language.
+3.    To measure and compare the total time taken by CPU to sort an array using processes and threads.
+4.    To analyze and present the results in a clear and understandable way
+
+## Project Details
+
+The project aims to compare the performance of processes and threads for sorting an array using different sorting algorithms in C language. The project will implement four sorting algorithms: bubble, insertion, selection, and quick sort. The project will use the OpenMP library to implement the multithreading. The project will measure the total time taken by the CPU to sort the array using processes and threads and compare the results.
+
+The project will have the following steps:
+1.	    Implement the four sorting algorithms using C language.
+2.	    Implement the sorting algorithms using processes and threads.
+3.	    Measure the total time taken by the CPU to sort the array using processes and threads.
+4.	    Compare the results and analyze the performance of processes and threads for sorting algorithms.
+5.	    Present the results in a clear and understandable way using graphs.
+
 ## Usage
 USAGE INSTRUCTIONS:
 1. The input file contains the total number of elements present in the file, then from 
@@ -31,6 +48,7 @@ is much more effective. As every thread makes its own PCB and stack so its takes
 time for execution.
 
 ## comaparsion picture
+https://github.com/Yasiraleee/CS-2006-Operating-Systems-Project-THREAD-VS-PROCESS/blob/main/Screenshot%202023-05-17%20123010.png
 
 
 ## Authors
